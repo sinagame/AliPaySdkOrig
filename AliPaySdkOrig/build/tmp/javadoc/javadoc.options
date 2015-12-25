@@ -1,6 +1,0 @@
--classpath 'C:\\Users\\51ibm\\AppData\\Local\\Android\\sdk\\platforms\\android-22\\android.jar'
--d 'D:\\development\\MiSdkOrig\\MiSdkOrig\\build\\docs\\javadoc'
--doctitle 'MiSdkOrig 4.3.9 API'
--quiet 
--windowtitle 'MiSdkOrig 4.3.9 API'
-'D:\\development\\MiSdkOrig\\MiSdkOrig\\src\\com\\sinagame\\support\\misdk\\MiSdkAgent.java'
